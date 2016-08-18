@@ -1,3 +1,17 @@
+# This is  
+Fork From https://github.com/gilbitron/Raneto
+
+## My Change log
+- Add ja.json
+- Rename Content Folder `example` -> `document`
+- delete example document 
+- Move & Delete Image Folder
+- Add printThis.js, and Enable.
+
+### Original Readme
+
+--
+
 [![Raneto Logo](https://raw.githubusercontent.com/gilbitron/Raneto/master/logo/logo_readme.png)](http://raneto.com/)
 
 Change log

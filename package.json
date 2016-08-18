@@ -1,9 +1,9 @@
 {
-  "name": "raneto",
+  "name": "MyDoc",
   "version": "0.10.1",
   "description": "Markdown powered Knowledgebase",
   "author": "Gilbert Pellegrom <gilbert@pellegrom.me>",
-  "license": "MIT",
+  "license": "All Rights Reserved. Copyright (C) 2016, Hoge, Ltd.(/document) / Originally under MIT Gilbert Pellegrom <gilbert@pellegrom.me> (Raneto)",
   "keywords": [
     "raneto",
     "knowledgebase",
@@ -11,21 +11,21 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gilbitron/Raneto.git"
+    "url": "https://github.com/okurahi/Raneto.git"
   },
-  "bugs": "https://github.com/gilbitron/Raneto/issues",
-  "contributors": "https://github.com/gilbitron/Raneto/graphs/contributors",
+  "bugs": "-",
+  "contributors": "-",
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://raw.githubusercontent.com/gilbitron/Raneto/master/LICENSE"
+      "url": "-"
     }
   ],
   "bin": "./bin/raneto",
   "main": "./app",
   "scripts": {
-    "start": "DEBUG=raneto node example/server.js",
-    "start_win": "set DEBUG=raneto&&node example/server.js",
+    "start": "DEBUG=raneto node document/server.js",
+    "start_win": "set DEBUG=raneto&&node document/server.js",
     "postinstall": "npm update && npm run gulp",
     "gulp": "gulp"
   },

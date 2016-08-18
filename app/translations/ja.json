@@ -1,0 +1,63 @@
+{
+  "global": {
+    "yes"             : "はい",
+    "no"              : "いいえ",
+    "search"          : "検索",
+    "cancel"          : "キャンセル",
+    "save"            : "保存",
+    "close"           : "閉じる",
+    "lastUpdated"     : "最終更新",
+
+    "pageName"        : "ページ 名",
+    "addPage"         : "ページの追加",
+    "reallyDeletePage": "本当にこのページを削除しますか？",
+    "mainArticles"    : "メインの記事"
+  },
+
+  "api": {
+    "loginSuccessful"   : "ログイン成功",
+    "invalidCredentials": "そのユーザが存在しないか、またはパスワードが間違っています。",
+    "pageSaved"         : "ページを保存しました。",
+    "pageDeleted"       : "ページを削除しました。",
+    "categoryCreated"   : "カテゴリを作成しました。",
+    "pageCreated"       : "ページを作成しました。"
+  },
+
+  "error": {
+    "404": "Whoops. Looks like this page doesn't exist."
+  },
+
+  "edit": {
+    "preview"      : "プレビュー",
+    "editor"       : "エディター",
+    "pageSaved"    : "ページを保存しました。",
+    "pageSaveError": "ページの保存に失敗しました。"
+  },
+
+  "home": {
+    "searchKnowledgeBase": "検索"
+  },
+
+  "login": {
+    "login"   : "ログイン",
+    "logout"  : "ログアウト",
+    "username": "ユーザ名",
+    "password": "パスワード"
+  },
+
+  "page": {
+    "addCategory": "カテゴリの追加",
+    "addPage"    : "ページの追加",
+    "deletePage" : "削除",
+    "editPage"   : "編集",
+    "actions"    : "アクション",
+
+    "needHelp"   : "Still need help?",
+    "getInTouch" : "Get in touch!"
+  },
+
+  "search": {
+    "resultsFor"  : "検索結果",
+    "noResultsFor": "見つかりませんでした"
+  }
+}

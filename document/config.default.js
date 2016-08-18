@@ -4,7 +4,7 @@
 var config = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'Raneto Docs',
+  site_title: 'My Docs',
 
   // The base URL of your site (can use %base_url% in Markdown files)
   base_url: '',
@@ -13,7 +13,7 @@ var config = {
   support_email: '',
 
   // Footer Text / Copyright
-  copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="http://raneto.com">Powered by Raneto</a>',
+  copyright: 'All Rights Reserved. Copyright &copy; 2016, Hoge (Powerd by Raneto)',
 
   // Excerpt length (used in search)
   excerpt_length: 400,
@@ -41,7 +41,7 @@ var config = {
   // The base URL of your images folder,
   // Relative to config.public_dir
   // (can use %image_url% in Markdown files)
-  image_url: '/images',
+  image_url: '',
 
   // Add your analytics tracking code (including script tags)
   analytics: '',
@@ -62,7 +62,7 @@ var config = {
     }
   ],
 
-  locale: 'en',
+  locale: 'ja',
 
   // Set to true to render suitable layout for RTL languages
   rtl_layout: false,

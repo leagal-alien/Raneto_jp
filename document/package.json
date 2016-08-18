@@ -1,5 +1,5 @@
 {
-  "name": "raneto-example",
+  "name": "My Doc",
   "version": "1.0.0",
   "description": "",
   "main": "config.default.js",
@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Ryan Lelek <ryanlelek@gmail.com>",
-  "license": "ISC",
+  "author": "Hoge",
+  "license": "All Rights Reserved. Copyright (C) 2016, Hoge, Ltd.",
   "dependencies": {
     "raneto": "0.7.1",
     "debug" : "2.2.0"

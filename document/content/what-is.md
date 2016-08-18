@@ -1,7 +1,9 @@
 /*
-Title: What is Raneto?
+Title: What is This?
 Sort: 1
 */
+
+This is Sample
 
 Raneto is a Knowledgebase platform for [Node.js](http://nodejs.org) that uses static
 [Markdown](http://daringfireball.net/projects/markdown) files to power the knowledgebase.
