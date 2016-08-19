@@ -5,6 +5,25 @@ Sort: 1
 
 This is Sample
 
+Ranetoのコピーです。  
+日本語対応(中)です。
+
+```
+
+```
+### 検索テスト用のキーワード
+* 私はその人を常に先生と呼んでいた。
+* 私がその掛茶屋で先生を見た時は、先生がちょうど着物を脱いでこれから海へ入ろうとするところであった。
+* 私は次の日も同じ時刻に浜へ行って先生の顔を見た。
+* 一種の失望を感じた。
+* 踵を回らした。
+* 一切衆生悉有仏生と書いた塔婆などが建ててあった。
+* 奥さんは黙っていた。「なぜです」と私が代りに聞いた時先生は「天罰だからさ」といって高く笑った。
+
+```
+
+```
+
 Raneto is a Knowledgebase platform for [Node.js](http://nodejs.org) that uses static
 [Markdown](http://daringfireball.net/projects/markdown) files to power the knowledgebase.
 

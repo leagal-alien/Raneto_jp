@@ -1,12 +1,19 @@
 # This is  
 Fork From https://github.com/gilbitron/Raneto
 
+For Japanese.
+
+日本語対応(中)版。
+
 ## My Change log
 - Add ja.json
 - Rename Content Folder `example` -> `document`
 - delete example document 
 - Move & Delete Image Folder
 - Add printThis.js, and Enable.
+- Copy & Modify raneto-core
+- require lunr-language & modify
+- Copy TinySegmenter & modify
 
 ### Original Readme
 
