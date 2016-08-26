@@ -24,6 +24,15 @@ Ranetoのコピーです。
 
 ```
 
+### リンクの印刷確認
+* bootstrapの機能で、印刷時にリンクの後ろに()でURLが表示されるのを無効にしたので、そのテスト
+* [リンク](http://www.hoge.com)
+
+
+```
+
+```
+
 Raneto is a Knowledgebase platform for [Node.js](http://nodejs.org) that uses static
 [Markdown](http://daringfireball.net/projects/markdown) files to power the knowledgebase.
 
